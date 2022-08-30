@@ -1,0 +1,28 @@
+{"status": "ok",
+"totalResults": 2,
+"articles": [
+    {
+        
+        "author": "Brent Brookhouse",
+        "title": "WWE Raw results, recap, grades: WWE celebrates John Cena; Riddle, Becky Lynch qualify for Money in the Bank - CBS Sports",
+        "description": "Cena delivered a promo giving WWE fans credit for making him a better man and bigger star",
+        "url": "https://www.cbssports.com/wwe/news/wwe-raw-results-recap-grades-wwe-celebrates-john-cena-riddle-becky-lynch-qualify-for-money-in-the-bank/live/",
+        "urlToImage": "https://sportshub.cbsistatic.com/i/r/2022/06/28/5111e3ca-b3a0-4c83-bdb9-203e8facdc7c/thumbnail/1200x675/3cb4a2f5c4c816c9af41480e6b103ec9/john-cena-wwe-raw.jpg",
+        "publishedAt": "2022-06-28T03:17:00Z",
+        "content": "On Monday night, WWE Raw celebrated the 20th anniversary of John Cena's debut for the promotion. It was the lead item of all pre-show promotion and much of the first two hours centered around Cena ev… [+3781 chars]"
+    },
+    {
+        "source": {
+            "id": null,
+            "name": "FOX 31 Denver"
+        },
+        "author": "Alex Rose",
+        "title": "Stanley Cup returns to Denver after Avs win - FOX 31 Denver",
+        "description": "The wheels hit the tarmac at Denver International Airport, and Gabe Landeskog emerged from the plane hoisting the best trophy in all of sports in the air.",
+        "url": "https://kdvr.com/sports/colorado-avalanche/stanley-cup-returns-to-denver-after-avs-win/",
+        "urlToImage": "https://kdvr.com/wp-content/uploads/sites/11/2022/06/LANDESKOG-AND-THE-CUP.png?w=1280",
+        "publishedAt": "2022-06-27T20:39:31Z",
+        "content": "DENVER (KDVR) — The wheels hit the tarmac at Denver International Airport, and Gabe Landeskog emerged from the plane hoisting the best trophy in all of sports in the air. The Stanley Cup now calls Co… [+577 chars]"
+    }
+]
+}
